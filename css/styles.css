@@ -162,6 +162,10 @@
                     padding-left: 5%;
                     padding-right: 5%;
                     padding-top: 0;
-                    font-family: 'Raleway', sans-serif;
+                }
+                img {
+                    height: 100%;
+                    border-radius: 10px;
+                    width: 260px;
                 }
             }
