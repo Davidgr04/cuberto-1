@@ -67,21 +67,37 @@ body {
 .column-1 {
     width: 100%;
     float: left;
+    padding-left: 5%;
+    padding-right: 6%;
+    padding-bottom: 6%;
+    padding-top: 5%;
 }
 
 .column-2 {
     width: 50%;
     float: left;
+    padding-left: 5%;
+    padding-right: 6%;
+    padding-bottom: 6%;
+    padding-top: 5%;
 }
 
 .column-3 {
     width: 33.33%;
     float: left;
+    padding-left: 5%;
+    padding-right: 6%;
+    padding-bottom: 6%;
+    padding-top: 5%;
 }
 
 .column-4 {
     width: 25%;
     float: left;
+    padding-left: 5%;
+    padding-right: 6%;
+    padding-bottom: 6%;
+    padding-top: 5%;
 }
 
 .column-5 {
@@ -126,7 +142,7 @@ img {
     height: 20vw;
     object-fit: cover;
     border-radius: 10px;
-    width: 100%;
+    width: 260px;
 }
 
 
